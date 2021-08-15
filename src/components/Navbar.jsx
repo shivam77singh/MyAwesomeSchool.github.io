@@ -19,7 +19,7 @@ const Navbar = () => {
     <nav className={isScroll ? "navbar change-navbar" : "navbar"}>
       <div className="navbar-component">
         <div className="logo">
-          <p>my School</p>
+          <p>Atlas School</p>
         </div>
         <ul
           style={isOpen ? { left: "0px" } : { left: "-1000px" }}
