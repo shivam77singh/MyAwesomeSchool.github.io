@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/MyAwesomeSchool.github.io/static/css/main.e56797d9.chunk.css",
-    "main.js": "/MyAwesomeSchool.github.io/static/js/main.daca5f9a.chunk.js",
-    "main.js.map": "/MyAwesomeSchool.github.io/static/js/main.daca5f9a.chunk.js.map",
+    "main.css": "/MyAwesomeSchool.github.io/static/css/main.6bfc16ad.chunk.css",
+    "main.js": "/MyAwesomeSchool.github.io/static/js/main.52d6ec4d.chunk.js",
+    "main.js.map": "/MyAwesomeSchool.github.io/static/js/main.52d6ec4d.chunk.js.map",
     "runtime-main.js": "/MyAwesomeSchool.github.io/static/js/runtime-main.df3d5153.js",
     "runtime-main.js.map": "/MyAwesomeSchool.github.io/static/js/runtime-main.df3d5153.js.map",
     "static/js/2.b548330d.chunk.js": "/MyAwesomeSchool.github.io/static/js/2.b548330d.chunk.js",
     "static/js/2.b548330d.chunk.js.map": "/MyAwesomeSchool.github.io/static/js/2.b548330d.chunk.js.map",
     "index.html": "/MyAwesomeSchool.github.io/index.html",
-    "static/css/main.e56797d9.chunk.css.map": "/MyAwesomeSchool.github.io/static/css/main.e56797d9.chunk.css.map",
+    "static/css/main.6bfc16ad.chunk.css.map": "/MyAwesomeSchool.github.io/static/css/main.6bfc16ad.chunk.css.map",
     "static/js/2.b548330d.chunk.js.LICENSE.txt": "/MyAwesomeSchool.github.io/static/js/2.b548330d.chunk.js.LICENSE.txt",
     "static/media/bg1.1dc6b9fa.jpg": "/MyAwesomeSchool.github.io/static/media/bg1.1dc6b9fa.jpg",
     "static/media/bg2.3e12815d.jpg": "/MyAwesomeSchool.github.io/static/media/bg2.3e12815d.jpg",
@@ -17,7 +17,7 @@
   "entrypoints": [
     "static/js/runtime-main.df3d5153.js",
     "static/js/2.b548330d.chunk.js",
-    "static/css/main.e56797d9.chunk.css",
-    "static/js/main.daca5f9a.chunk.js"
+    "static/css/main.6bfc16ad.chunk.css",
+    "static/js/main.52d6ec4d.chunk.js"
   ]
 }
